@@ -68,4 +68,10 @@
                         text-transform: capitalize;
                         padding: 0;
                         line-height: 1.5;
+                        padding-bottom: 12px;
+                    }
+                    
+                    .btn {
+                        width: 100px;
+                        padding: 7px 0;
                     }
