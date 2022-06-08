@@ -45,3 +45,12 @@
                         cursor: pointer;
                         transition: 0.7s ease;
                     }
+                    
+                    .content {
+                        background-color: brown;
+                        position: absolute;
+                        top: 50%;
+                        text-align: center;
+                        color: white;
+                        margin-left: 120px;
+                    }
