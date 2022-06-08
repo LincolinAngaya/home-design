@@ -23,6 +23,7 @@
                     
                     .logo {
                         color: white;
+                        font-size: 25px;
                     }
                     
                     .navbar ul {
@@ -37,4 +38,10 @@
                     .navbar ul li a {
                         color: white;
                         text-decoration: none;
+                    }
+                    
+                    .navbar ul li a:hover {
+                        color: aqua;
+                        cursor: pointer;
+                        transition: 0.7s ease;
                     }
